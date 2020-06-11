@@ -2,7 +2,3 @@
 - A Graph making tool made in Python under Matplotlib module.
 - GUI Made with Tkinter
 - Some inverse trigonometric functions are not supported 
-
-# Screen Shots
-- Main Window
-![](https://C:/Users/Aman Agrawal/Desktop/2020-06-11 (2).png)
