@@ -6,6 +6,7 @@
 ### Screen Shots:
 - Main Window
 
+![2020-06-11 (4)](https://user-images.githubusercontent.com/64532019/84381171-42e05200-ac06-11ea-94d9-0e04df6a9732.png)
 
 
 - Graph Window
@@ -20,3 +21,4 @@
 - Plots graphs of functions with only one variable.
 - Graphs can be changed or moved according to the user's convenience.
 - User can save the graphs as image files.
+- Parenthesis and all operation signs must be placed according to BODMAS rule in the function.
