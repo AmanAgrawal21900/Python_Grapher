@@ -5,4 +5,4 @@
 
 # Screen Shots
 - Main Window
-![](https://C:\Users\Aman Agrawal\Desktop\2020-06-11 (2).png)
+![](https://C:/Users/Aman Agrawal/Desktop/2020-06-11 (2).png)
