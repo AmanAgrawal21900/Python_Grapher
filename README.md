@@ -21,4 +21,4 @@
 - Plots graphs of functions with only one variable.
 - Graphs can be changed or moved according to the user's convenience.
 - User can save the graphs as image files.
-- Parenthesis and all operation signs must be placed according to BODMAS rule in the function.
+- Parentheses and all operation signs must be placed according to BODMAS rule in the function.
