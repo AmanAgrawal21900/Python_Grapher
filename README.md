@@ -16,7 +16,7 @@
 
 
 
-### Instructions to use:
+### A Note before use:
 - Only 'x' is supported as a variable.
 - Plots graphs of functions with only one variable.
 - Graphs can be changed or moved according to the user's convenience.
